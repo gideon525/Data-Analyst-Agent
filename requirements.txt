@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-dotenv
+pinecone
+sentence-transformers
+torch
+torchvision
+phidata
+pyreadline3
+google-generativeai
